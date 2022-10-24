@@ -1,10 +1,64 @@
-- 👋 Hi, I’m @True0rFa1se
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 个人介绍
+# 个人介绍
+（把字体调成中易宋体效果会更佳哦）
 
-<!---
-True0rFa1se/True0rFa1se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+大家好，我是
+```
+		       　  　▃▆█▇▄▖
+		　 　 　 ▟◤▖　　　◥█▎
+		   　 ◢◤　 ▐　　　 　▐▉
+		　 ▗◤　　　▂　▗▖　　▕█▎
+		　◤　▗▅▖◥▄　▀◣　　█▊
+		▐　▕▎◥▖◣◤　　　　◢██
+		█◣　◥▅█▀　　　　▐██◤
+		▐█▙▂　　     　◢██◤
+		◥██◣　　　　◢▄◤
+			▀██▅▇▀
+他说风雨中这点痛算什么
+                  擦干泪不要怕 至少我们还有梦
+```
+咳咳，不好意思，放错视频了
+
+
+
+```
+你好！初次见面
+
+我是
+充满幻想的？
+沙雕快乐的？
+■■■■■　　　　　　　　　　　　■■■　　　　■■■■　　　　■■　　　　　　　　　　■ 
+　　■　　■■　■　■　■■■　■　　■　■■　■　　　■■■　　■　　■■■　■■■　■ 
+　　■　　■　　■　■　■　■　■　　■　■　　■　　　　□■　　■　　■　　　■　■　■ 
+　　■　　■　　■　■　■□　　■　　■　■　　■■■　■　■　　■　　　□■　■□　　　 
+　　■　　■　　■■■　■■■　■■■■　■　　■　　　■■■　■■■　■■■　■■■　■ 
+性别：男
+
+出道日期：等虚拟形象出来了，自然就出道了罢（
+
+以上就是我的自我介绍
+
+别忘了一键三连嗷！
+```
+虚拟形象还不会画（悲）
+
+~~梦想： **$\texttt\color{purple}True0rFa1se$** $\color{white}\colorbox{purple}{\texttt{吉祥物}}$~~
+
+现实： **$\texttt\color{#3498db}True0rFa1se$**
+
+~~发展方向： **$\texttt\color{#960}True0rFa1se$** $\color{white}\colorbox{#960}{\texttt{作弊者}}$~~
+
+![](https://luogu.wao3.cn/api/practice?id=520716&dark_mode=true&card_width=850)
+
+| <\|> | >\|< |
+| :----------: | :----------: |
+| 7 | 15 |
+| 6 | 14 |
+| 5 | 13 |
+| 4 | 12 |
+| 3 | 11 |
+| 2 | 10 |
+| 1 | 9 |
+| -1 | 8 |
+
+(意义不明)
