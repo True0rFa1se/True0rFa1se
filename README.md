@@ -3,6 +3,8 @@
 # 个人介绍
 （把字体调成中易宋体效果会更佳哦）
 
+（洛谷默认字体：Noto Sans）
+
 大家好，我是
 ```
 		       　  　▃▆█▇▄▖
@@ -14,7 +16,7 @@
 		█◣　◥▅█▀　　　　▐██◤
 		▐█▙▂　　     　◢██◤
 		◥██◣　　　　◢▄◤
-			▀██▅▇▀
+		     ▀██▅▇▀
 他说风雨中这点痛算什么
                   擦干泪不要怕 至少我们还有梦
 ```
@@ -41,6 +43,8 @@
 
 别忘了一键三连嗷！
 ```
+我的恶臭ID：***520716 = (114514+114514)\*(-11+4-5+14)+(114\*514+((1+1)\*451\*4+1\*1+451+4))***
+
 虚拟形象还不会画（悲）
 
 ~~梦想： **$\texttt\color{purple}True0rFa1se$** $\color{white}\colorbox{purple}{\texttt{吉祥物}}$~~
@@ -49,17 +53,43 @@
 
 ~~发展方向： **$\texttt\color{#960}True0rFa1se$** $\color{white}\colorbox{#960}{\texttt{作弊者}}$~~
 
+彩色形态：
+
+Libre版：$\colorbox{black}{\texttt\color{#E57373}T\color{#EF5350}r\color{#F44336}u\color{#E53935}e\color{#BA68C8}0\color{#AB47BC}r\color{#64B5F6}F\color{#42A5F5}a\color{#2196F3}1\color{#1E88E5}s\color{#1976D2}e}$
+```text
+$\colorbox{black}{\texttt\color{#E57373}T\color{#EF5350}r\color{#F44336}u\color{#E53935}e\color{#BA68C8}0\color{#AB47BC}r\color{#64B5F6}F\color{#42A5F5}a\color{#2196F3}1\color{#1E88E5}s\color{#1976D2}e}$
+```
+谷歌版：$\colorbox{black}{\texttt\color{#F36C60}T\color{#E84E40}r\color{#E51C23}u\color{#DD191D}e\color{#BA68C8}0\color{#AB47BC}r\color{#91A7FF}F\color{#738FFE}a\color{#5677FC}1\color{#4E6CEF}s\color{#455EDE}e}$
+```text
+$\colorbox{black}{\texttt\color{#F36C60}T\color{#E84E40}r\color{#E51C23}u\color{#DD191D}e\color{#BA68C8}0\color{#AB47BC}r\color{#91A7FF}F\color{#738FFE}a\color{#5677FC}1\color{#4E6CEF}s\color{#455EDE}e}$
+```
+# 练习情况
 ![](https://luogu.wao3.cn/api/practice?id=520716&dark_mode=true&card_width=850)
+统计时长：两年半
 
-| <\|> | >\|< |
-| :----------: | :----------: |
-| 7 | 15 |
-| 6 | 14 |
-| 5 | 13 |
-| 4 | 12 |
-| 3 | 11 |
-| 2 | 10 |
-| 1 | 9 |
-| -1 | 8 |
+# 笑话区（施工中）
+## 1
 
-(意义不明)
+TDOG = 舔狗
+
+微笙 = Weisheng = 卫生
+
+DEV-C++ = （讲）德语（的）曹操
+
+## 2
+
+我,
+
+手持两把锟斤拷,
+
+口中疾呼烫烫烫,
+
+脚踏千朵屯屯屯,
+
+笑看万物锘锘锘。
+
+## 3
+```
+句读快乐水
+剧毒 IV (1:14)
+```
