@@ -37,7 +37,7 @@
 　　■　　■　　■■■　■■■　■■■■　■　　■　　　■■■　■■■　■■■　■■■　■ 
 性别：男
 
-出道日期：等虚拟形象出来了，自然就出道了罢（
+出道日期：等二次元形象画到纸上了，自然就出道了罢（
 
 以上就是我的自我介绍
 
@@ -45,7 +45,7 @@
 ```
 我的恶臭ID：***520716 = (114514+114514)\*(-11+4-5+14)+(114\*514+((1+1)\*451\*4+1\*1+451+4))***
 
-虚拟形象还不会画（悲）
+二次元形象暂时只有 Minecraft Skin 形式（悲）
 
 ~~梦想： **$\texttt\color{purple}True0rFa1se$** $\color{white}\colorbox{purple}{\texttt{吉祥物}}$~~
 
@@ -69,13 +69,12 @@ $\colorbox{black}{\texttt\color{#F36C60}T\color{#E84E40}r\color{#E51C23}u\color{
 
 # 笑话区（施工中）
 ## 1
-
-TDOG = 舔狗
-
-微笙 = Weisheng = 卫生
-
-DEV-C++ = （讲）德语（的）曹操
-
+```text
+bedrock
+mud
+moss_block
+coal_block
+```
 ## 2
 
 我,
