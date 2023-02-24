@@ -113,37 +113,3 @@ the five boxing wizards jump quickly 0123456789
 
 THE FIVE FOXING WIZARDS JUMP QUICKLY ,.;:?!()+-*/=
 ```
-
-# 笑话区（施工中）
-## 1
-![](https://cdn.luogu.com.cn/upload/image_hosting/w56bkhlr.png)
-
-> 基泥石栽石苔煤（已更新至1.19）
-
-## 2
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/3xr3vud0.png)
-
-> 手持两把锟斤拷,
->
-> 口中疾呼烫烫烫,
->
-> 脚踏千朵屯屯屯,
->
-> 笑看万物锘锘锘。
-
-## 3
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/36kiqy5s.png)
-
-> 我横竖睡不着，仔细看了半夜，才从屏幕里看出字来，满屏都写着三个字“锟斤拷”！
-
-## 4
-```
-句读快乐水
-剧毒 IV (1:14)
-```
-
-## 5（图文来自网络，侵删）
-
-过一个幸福年，留在宝![鸡](https://cdn.luogu.com.cn/upload/image_hosting/dyqnv10c.png)，![只因未来](https://cdn.luogu.com.cn/upload/image_hosting/8z3banes.png)可期
